@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "title": "Dead Pool",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/en/2/23/Deadpool_%282016_poster%29.png",
+        "publishedYear" : 2024,
+        "durationMIn" :150,
+        "type" : "Action",
+        "description": "Deadpool & Wolverine is a 2024 American superhero film based on Marvel Comics featuring the characters Deadpool and Wolverine. Produced by Marvel Studios, Maximum Effort, and 21 Laps Entertainment, and distributed by Walt Disney Studios Motion Pictures, it is the 34th film in the Marvel Cinematic Universe (MCU) and the sequel to Deadpool (2016) and Deadpool 2 (2018). The film was directed by Shawn"
+    
+    },
+
+
+    {
+        "id": 2,
+        "title": "Avangers",
+        "imgUrl": "https://cdn.marvel.com/content/1x/avengersendgame_lob_crd_05.jpg",
+        "publishedYear" : 2023,
+        "durationMIn" :170,
+        "type" : "Action",
+        "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+    
+    },
+
+
+
+    {
+        "id": 3,
+        "title": "Spider Man",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_FMjpg_UX1000_.jpg",
+        "publishedYear" : 2022,
+        "durationMIn" :120,
+        "type" : "Action",
+        "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+    
+    },
+
+
+
+
+
+     
+    {
+        "id": 4,
+        "title": "Avatar",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
+        "publishedYear" : 2022,
+        "durationMIn" :75,
+        "type" : "Action",
+        "description": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home."
+    
+    },
+
+
+
+    {
+        "id": 5,
+        "title": "Godzilla x Kong: The New Empire",
+        "imgUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt14539740%2F&psig=AOvVaw2f0a6QPSiK-TZv_Fr7ozMi&ust=1723895484091000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDOzY63-YcDFQAAAAAdAAAAABAE",
+        "publishedYear" : 2024,
+        "durationMIn" :75,
+        "type" : "Action",
+        "description": "Two ancient titans, Godzilla and Kong, clash in an epic battle as humans unravel their intertwined origins and connection to Skull Island's mysteries."
+    
+    },
+    {
+        "id": 6,
+        "title": "Boneyard",
+        "imgUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt10993078%2F&psig=AOvVaw2ukAywiArvPu-C2OV1uzeQ&ust=1723895581037000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCI57y3-YcDFQAAAAAdAAAAABAE",
+        "publishedYear" : 2020,
+        "durationMIn" :85,
+        "type" : "Action",
+        "description": "Two ancient titans, Godzilla and Kong, clash in an epic battle as humans unravel their intertwined origins and connection to Skull Island's mysteries."
+    
+    },
+
+
+    {
+        "id": 7,
+        "title": "Atlas",
+        "imgUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt14856980%2F&psig=AOvVaw2YaiRcRRgEKQDvZQ68oGLR&ust=1723895690138000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDhnfG3-YcDFQAAAAAdAAAAABAE",
+        "publishedYear" : 2024,
+        "durationMIn" :95,
+        "type" : "Action",
+        "description": "Inspired by the true events of a serial killer that may still be out there today."
+    
+    },
+
+
+    {
+        "id": 8,
+        "title": "Kung Fu Panda 4",
+        "imgUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.primevideo.com%2Fdetail%2FKung-Fu-Panda-4%2F0ITSM2TQZKVGMR71CSAK43QX35&psig=AOvVaw2EsTuphdoYWdo8SOE012pi&ust=1723895742792000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDXmYq4-YcDFQAAAAAdAAAAABAE",
+        "publishedYear" : 2024,
+        "durationMIn" :105,
+        "type" : "Action",
+        "description": "Jack Black returns as the most unlikely kung fu master, Po, to take on a wicked, magic-wielding enemy that reminds him that heroes can be found in the most unexpected places."
+    
+    }
+
+
+
+     
+]
+
+
+   
+
+
+
+
